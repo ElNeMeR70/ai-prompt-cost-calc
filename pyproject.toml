@@ -1,0 +1,4 @@
+[project]
+name = "ai-prompt-cost-calc"
+version = "0.1.0"
+description = "Calculates input/output token usage and estimated API cost across GPT-4o, Claude 3.5, and Gemini 1.5 Pro."
